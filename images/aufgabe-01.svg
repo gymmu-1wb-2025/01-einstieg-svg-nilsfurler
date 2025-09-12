@@ -2,5 +2,4 @@
 
 <circle cx="250" cy="250" r="250" fill="red" />
 <circle cx="250" cy="250" r="25"  fill="black" />
-
 </svg>
