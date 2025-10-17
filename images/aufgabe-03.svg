@@ -3,4 +3,4 @@
 <rect x="225" y="225" width="50" height="50" stroke="black" stroke-width="5" fill="white" />
 <circle cx="250" cy="250" r="22.5" fill="red" />
 <circle cx="250" cy="250" r="17" fill="white" />
-<svg
+</svg>
